@@ -1,5 +1,5 @@
-Client-Server_Distributed_System
-================================
+Client-Server
+=============
 
 Commands:
 
