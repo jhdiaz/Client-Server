@@ -1,5 +1,4 @@
 //Author: Jeffrey Diaz
-//Partner: James Berger
 
 import java.net.*;
 import java.io.*;
